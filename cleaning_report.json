@@ -1,0 +1,363 @@
+{
+  "groups": [
+    {
+      "groupId": 0,
+      "records": [
+        {
+          "tsid": "lcRozQIK8aZBpV2CP1y",
+          "dataSetName": "BLTombigbee.author.1111",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRZCPjMhJeRHQyPqyS",
+          "dataSetName": "BLTombigbee.author.1111",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcR92EuktfuxaUApl9a",
+          "dataSetName": "BLTombigbee.author.1111",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRdu3y3hOnoCPjx88U",
+          "dataSetName": "BLTombigbee.author.1111",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRYnudO1mrSXTylEcC",
+          "dataSetName": "BLTombigbee.author.1111",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcROvwP6Fw02gVxXVAl",
+          "dataSetName": "BLTombigbee.author.1111",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcR6MhEKs3xnoA58v4P",
+          "dataSetName": "BLTombigbee.author.1111",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRdctxKt2LXpNEvkdn",
+          "dataSetName": "BLTombigbee.author.1111",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 1,
+      "records": [
+        {
+          "tsid": "lcR5CbMOaWjcmAGHIYm",
+          "dataSetName": "CatahoulaLakecoreCLR3.Tedford.2009",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRPb8TL7Y3WFA1C2hP",
+          "dataSetName": "CatahoulaLakecoreCLR3.Tedford.2009",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRITmjyUcCkNJPKfMa",
+          "dataSetName": "CatahoulaLakecoreCLR3.Tedford.2009",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRl63caLuFunX7YX5g",
+          "dataSetName": "CatahoulaLakecoreCLR3.Tedford.2009",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRLX0zOHJBkY11wYMX",
+          "dataSetName": "CatahoulaLakecoreCLR3.Tedford.2009",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcREqQsV7zpE2ZYcd4v",
+          "dataSetName": "CatahoulaLakecoreCLR3.Tedford.2009",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRlebmoE6ICxvfQ6Vf",
+          "dataSetName": "CatahoulaLakecoreCLR3.Tedford.2009",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRmogb4UnO2z1sAo3V",
+          "dataSetName": "CatahoulaLakecoreCLR3.Tedford.2009",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 2,
+      "records": [
+        {
+          "tsid": "lcRosxfF8fxXZ8JUOkT",
+          "dataSetName": "LakeArthur.Fearn.1995",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcR7lK2AGCcZTLiALIb",
+          "dataSetName": "LakeArthur.Fearn.1995",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcR7HRE2WNO6Ig4Q5N6",
+          "dataSetName": "LakeArthur.Fearn.1995",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRs9DInn9IKJ5qFnsU",
+          "dataSetName": "LakeArthur.Fearn.1995",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRO9ccNGO5g4W1ABwE",
+          "dataSetName": "LakeArthur.Fearn.1995",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcR7CWCwgQfALHWgPKD",
+          "dataSetName": "LakeArthur.Fearn.1995",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRb2hhU7JzNYhs3uzc",
+          "dataSetName": "LakeArthur.Fearn.1995",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRyJbi8VSZ2dhAXeNN",
+          "dataSetName": "LakeArthur.Fearn.1995",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 3,
+      "records": [
+        {
+          "tsid": "LPD016ef221_iso2k",
+          "dataSetName": "MS07JRGM",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD572f7cc3",
+          "dataSetName": "Ocn-PigmyBasin.Richey.2015",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD016ef221",
+          "dataSetName": "Ocn-PigmyBasin.Richey.2015",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 4,
+      "records": [
+        {
+          "tsid": "lcRDlstGba3FRmzwpKP",
+          "dataSetName": "NonconnahCreekTN1.Delcourt.1980",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRWfu4u3uIP55cgXCZ",
+          "dataSetName": "NonconnahCreekTN1.Delcourt.1980",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRZBhgwxxKWEOIpuDG",
+          "dataSetName": "NonconnahCreekTN1.Delcourt.1980",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRoS07X6gVRuBGeNSJ",
+          "dataSetName": "NonconnahCreekTN1.Delcourt.1980",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRt3EfkXYiAqTlEB7z",
+          "dataSetName": "NonconnahCreekTN1.Delcourt.1980",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRESvAtNORBOCYisMZ",
+          "dataSetName": "NonconnahCreekTN1.Delcourt.1980",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRsKcnt1ZZbAJ9HUDp",
+          "dataSetName": "NonconnahCreekTN1.Delcourt.1980",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcR3RDpvIkoUcFvomMV",
+          "dataSetName": "NonconnahCreekTN1.Delcourt.1980",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 5,
+      "records": [
+        {
+          "tsid": "LPD57d40973",
+          "dataSetName": "Ocn-FiskBasin.Richey.2009",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPDb44bf261",
+          "dataSetName": "Ocn-FiskBasin.Richey.2009",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 6,
+      "records": [
+        {
+          "tsid": "lcRF3O0JHgLBt8IJ5U7",
+          "dataSetName": "PascagoulaMarsh.Hathorn.2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRn23hrJRsCwWrAzjF",
+          "dataSetName": "PascagoulaMarsh.Hathorn.2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRpMdDwHloCA8LISul",
+          "dataSetName": "PascagoulaMarsh.Hathorn.2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRiJv53bqbZMTTK6Sr",
+          "dataSetName": "PascagoulaMarsh.Hathorn.2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRgQ1FaOAwCQPLsSzz",
+          "dataSetName": "PascagoulaMarsh.Hathorn.2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRWOan2C7hYbJ6mbfc",
+          "dataSetName": "PascagoulaMarsh.Hathorn.2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRedQC6IFDm43SDT7b",
+          "dataSetName": "PascagoulaMarsh.Hathorn.2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRosko0Yry4jdGBlkt",
+          "dataSetName": "PascagoulaMarsh.Hathorn.2008",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 7,
+      "records": [
+        {
+          "tsid": "lcR9H0WTBaG4dwcszyH",
+          "dataSetName": "PrienLake.Fearn.1995",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRnXVXWghDfIC14ZIx",
+          "dataSetName": "PrienLake.Fearn.1995",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRiubI4Xxby4Stu0x4",
+          "dataSetName": "PrienLake.Fearn.1995",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRaLxaIe8v5yX5JpFX",
+          "dataSetName": "PrienLake.Fearn.1995",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRlpNvatg8xpzm2zNk",
+          "dataSetName": "PrienLake.Fearn.1995",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRdm6mEe1lB3Dl0F6S",
+          "dataSetName": "PrienLake.Fearn.1995",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcR1N2ku01ARWO972xi",
+          "dataSetName": "PrienLake.Fearn.1995",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRQu3V1or6zq2zjekd",
+          "dataSetName": "PrienLake.Fearn.1995",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 8,
+      "records": [
+        {
+          "tsid": "lcRYrW5e6soIe5a9CTQ",
+          "dataSetName": "RayburnsDome.Kolb.1981",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRJ9167QfLFbUeVvtM",
+          "dataSetName": "RayburnsDome.Kolb.1981",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcR03aAaGmcqGTsFSDb",
+          "dataSetName": "RayburnsDome.Kolb.1981",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcR2XRYtOnDQNwy0cfh",
+          "dataSetName": "RayburnsDome.Kolb.1981",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRWR2rz4W3iD0ijMTD",
+          "dataSetName": "RayburnsDome.Kolb.1981",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRIEceOxBGTyiLWH2t",
+          "dataSetName": "RayburnsDome.Kolb.1981",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcReygZwaWv7te1X8bL",
+          "dataSetName": "RayburnsDome.Kolb.1981",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRgigXMKhrp0UwLpRq",
+          "dataSetName": "RayburnsDome.Kolb.1981",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    }
+  ]
+}
